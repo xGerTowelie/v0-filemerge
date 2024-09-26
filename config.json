@@ -1,0 +1,8 @@
+{
+  "root_folder": "~/projects",
+  "output_folder": "./out",
+  "max_file_size_mb": 5,
+  "blacklisted_folders": ["configs", "node_modules", ".git", ".next", "public"],
+  "ignored_file_types": [".exe", ".ico", ".woff"]
+}
+
